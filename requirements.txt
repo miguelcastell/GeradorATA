@@ -1,0 +1,6 @@
+pandas
+python-docx
+pillow
+docx2pdf
+openpyxl
+tqdm

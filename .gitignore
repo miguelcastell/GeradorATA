@@ -1,0 +1,17 @@
+# Pastas geradas
+ATAS_GERADAS/
+
+# Cache
+__pycache__/
+*.pyc
+
+# Ambiente virtual
+venv/
+.env/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
